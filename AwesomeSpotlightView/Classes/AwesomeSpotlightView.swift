@@ -58,6 +58,11 @@ public class AwesomeSpotlightView: UIView {
   public var continueButtonModel = AwesomeTabButton(title: "Continue".localized, font: kContinueLabelFont, isEnable: kEnableContinueLabel)
   public var skipButtonModel = AwesomeTabButton(title: "Skip".localized, font: kSkipButtonFont, isEnable: kEnableSkipButton)
   public var skipButtonLastStepTitle = kSkipButtonLastStepTitle
+  public var alignment = NSTextAlignment.center {
+	didSet {
+		textLabel.textAlignment = alignment
+	}
+  }
   
   public var spotlightMaskColor = UIColor(red: 0.0, green: 0.0, blue: 0.0, alpha: 0.6) {
     didSet {
@@ -123,7 +128,7 @@ public class AwesomeSpotlightView: UIView {
     textLabel.font = textLabelFont
     textLabel.lineBreakMode = .byWordWrapping
     textLabel.numberOfLines = 0
-    textLabel.textAlignment = .center
+    textLabel.textAlignment = alignment
     textLabel.alpha = 0
     addSubview(textLabel)
   }

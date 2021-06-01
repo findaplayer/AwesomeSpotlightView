@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0D3CC051145F48A605E41A9E9467A8EA /* AwesomeSpotlightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050A239F72F13B758C96128B0C547049 /* AwesomeSpotlightView.swift */; };
-		2F94FFFD5C521AF2E0153657D8EA8BEF /* AwesomeSpotlight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32173174FF3F0689229601365D383D0A /* AwesomeSpotlight.swift */; };
-		391FD413A5F2D90A8CE06D6A1A4E5D14 /* AwesomeSpotlightViewBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = DFACACEF524C4956B597E3F225273897 /* AwesomeSpotlightViewBundle.bundle */; };
-		39D183E3DBACA29E1DA16B4DB1888462 /* Pods-AwesomeSpotlightViewDemoObjC-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DF17C59844D498BD143D2B1337C51C45 /* Pods-AwesomeSpotlightViewDemoObjC-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		403A5434130EAFFAA2539A2100B57496 /* AwesomeSpotlightView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 05532F17513A2F4BE63A47151CCCCF8D /* AwesomeSpotlightView-dummy.m */; };
-		41C2C23D02F5BC4E2F9E8358D69B48A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 40CB39E715FBCDAA142E6513E126200A /* Foundation.framework */; };
-		651658FF8444E368796BD52A74609062 /* AwesomeSpotlightView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A07A823162D056BCCCEBA0CF544A791 /* AwesomeSpotlightView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9EA464E51BB96CC08B89398C45B186AB /* Pods-AwesomeSpotlightViewDemoObjC-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E51686376F28ACCD9676D40A6B28A057 /* Pods-AwesomeSpotlightViewDemoObjC-dummy.m */; };
-		A0FBF6CC1A427568CC1E83C52356C6C5 /* Localizator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E2DA42E2228E242C373A386DBAFB46 /* Localizator.swift */; };
-		B3BE8DAB2186DBEF3D28382FD18C29B0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ECF2A2B0720AE923C22BED3192888BE0 /* UIKit.framework */; };
-		BCACF559971A10803615B48EA9D1B44E /* AwesomeTabButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF84B86272CD80F37476EC71819C3048 /* AwesomeTabButton.swift */; };
-		C4958433CA9413F484F1BF0D9EA4D8EA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 40CB39E715FBCDAA142E6513E126200A /* Foundation.framework */; };
+		201B15060B87EA23F9B516A58F5952D6 /* AwesomeTabButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5ED5EACD2C108B1B2A915CBFA876F8 /* AwesomeTabButton.swift */; };
+		357D5FE227F1B7EA08C8D414123C0C23 /* AwesomeSpotlightView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B48635A1F6638BEF44BEA8EBB7EF23F4 /* AwesomeSpotlightView-dummy.m */; };
+		3E29FD72C03F089647985DD486513F12 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
+		48A9E61FED8024B721963FF5B18E1609 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
+		4F716BEA16685B97F3E148E8E9199B61 /* AwesomeSpotlightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7525F7E292C507068D1536275924BD4C /* AwesomeSpotlightView.swift */; };
+		5261C66F4AD4C30BC02FDAE410E2CD25 /* AwesomeSpotlightViewBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 545ACF6719C88FD06F85735B0A21ED08 /* AwesomeSpotlightViewBundle.bundle */; };
+		6DC60265BD07FC2325BF5EEA0579B5CA /* Pods-AwesomeSpotlightViewDemoObjC-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DF17C59844D498BD143D2B1337C51C45 /* Pods-AwesomeSpotlightViewDemoObjC-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7C57C46BED1D42892752D93E786C5F37 /* Pods-AwesomeSpotlightViewDemoObjC-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E51686376F28ACCD9676D40A6B28A057 /* Pods-AwesomeSpotlightViewDemoObjC-dummy.m */; };
+		867FA5F56A07ECB3172E0550136BD8F0 /* Localizator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546C48D860C98D0698BBA51849E9DDFC /* Localizator.swift */; };
+		CD9CEB768E622AA2B732023A4AC72831 /* AwesomeSpotlightView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F64D8AAE786C08512190321035FFB97 /* AwesomeSpotlightView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D332761FF504DD9FA4C80D25577A6BC1 /* AwesomeSpotlight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D647D525E5C52B51A4D3943EC7F238 /* AwesomeSpotlight.swift */; };
+		EF963785D8A9375970B0FF7D8CEC5B48 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		93E5AD4B3BCEF5C188214C394D7AE962 /* PBXContainerItemProxy */ = {
+		35EE5E0B6A89486096D144D47DF92D00 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -32,48 +32,49 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		050A239F72F13B758C96128B0C547049 /* AwesomeSpotlightView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AwesomeSpotlightView.swift; path = AwesomeSpotlightView/Classes/AwesomeSpotlightView.swift; sourceTree = "<group>"; };
-		05532F17513A2F4BE63A47151CCCCF8D /* AwesomeSpotlightView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AwesomeSpotlightView-dummy.m"; sourceTree = "<group>"; };
-		1E80B687977EF20B6E1B6046C7A863C2 /* Pods_AwesomeSpotlightViewDemoObjC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AwesomeSpotlightViewDemoObjC.framework; path = "Pods-AwesomeSpotlightViewDemoObjC.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		17F18E636C2F901CB750522A40E472A9 /* AwesomeSpotlightView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AwesomeSpotlightView.release.xcconfig; sourceTree = "<group>"; };
+		28B371A2DF877A16C6A14B2808E00C46 /* AwesomeSpotlightView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AwesomeSpotlightView-prefix.pch"; sourceTree = "<group>"; };
 		2E0A82EE0A176099D8A23DA24B67DB7D /* Pods-AwesomeSpotlightViewDemoObjC-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AwesomeSpotlightViewDemoObjC-Info.plist"; sourceTree = "<group>"; };
-		32173174FF3F0689229601365D383D0A /* AwesomeSpotlight.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AwesomeSpotlight.swift; path = AwesomeSpotlightView/Classes/AwesomeSpotlight.swift; sourceTree = "<group>"; };
-		40CB39E715FBCDAA142E6513E126200A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		2FDA64326F46727ABC932B518465BD86 /* AwesomeSpotlightView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AwesomeSpotlightView.framework; path = AwesomeSpotlightView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F64D8AAE786C08512190321035FFB97 /* AwesomeSpotlightView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AwesomeSpotlightView-umbrella.h"; sourceTree = "<group>"; };
 		48BCBE00575AA14CB9F5715BD5BC2A6C /* Pods-AwesomeSpotlightViewDemoObjC.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AwesomeSpotlightViewDemoObjC.modulemap"; sourceTree = "<group>"; };
-		4D906D829CA494984535809DAB43BADE /* AwesomeSpotlightView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AwesomeSpotlightView.xcconfig; sourceTree = "<group>"; };
-		516949894615FBDFB7BAA09EB416478A /* AwesomeSpotlightView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AwesomeSpotlightView.modulemap; sourceTree = "<group>"; };
-		6A07A823162D056BCCCEBA0CF544A791 /* AwesomeSpotlightView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AwesomeSpotlightView-umbrella.h"; sourceTree = "<group>"; };
+		49D647D525E5C52B51A4D3943EC7F238 /* AwesomeSpotlight.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AwesomeSpotlight.swift; path = AwesomeSpotlightView/Classes/AwesomeSpotlight.swift; sourceTree = "<group>"; };
+		545ACF6719C88FD06F85735B0A21ED08 /* AwesomeSpotlightViewBundle.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = AwesomeSpotlightViewBundle.bundle; path = AwesomeSpotlightView/Classes/AwesomeSpotlightViewBundle.bundle; sourceTree = "<group>"; };
+		546C48D860C98D0698BBA51849E9DDFC /* Localizator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Localizator.swift; path = AwesomeSpotlightView/Classes/Localizator.swift; sourceTree = "<group>"; };
 		6BFAD0DBEBDBFB478228A3B2E3B31921 /* Pods-AwesomeSpotlightViewDemoObjC-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AwesomeSpotlightViewDemoObjC-acknowledgements.plist"; sourceTree = "<group>"; };
 		711318556B88FF6E468885198BD712A0 /* Pods-AwesomeSpotlightViewDemoObjC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AwesomeSpotlightViewDemoObjC.release.xcconfig"; sourceTree = "<group>"; };
-		71E2DA42E2228E242C373A386DBAFB46 /* Localizator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Localizator.swift; path = AwesomeSpotlightView/Classes/Localizator.swift; sourceTree = "<group>"; };
+		7525F7E292C507068D1536275924BD4C /* AwesomeSpotlightView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AwesomeSpotlightView.swift; path = AwesomeSpotlightView/Classes/AwesomeSpotlightView.swift; sourceTree = "<group>"; };
 		7919B21CB361FB75A797085722A89339 /* Pods-AwesomeSpotlightViewDemoObjC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AwesomeSpotlightViewDemoObjC.debug.xcconfig"; sourceTree = "<group>"; };
-		836F15855C45068D535AA3D03619D0E3 /* AwesomeSpotlightView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AwesomeSpotlightView.framework; path = AwesomeSpotlightView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7DCAC578A0A4321DA997F748454EFE05 /* AwesomeSpotlightView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AwesomeSpotlightView.modulemap; sourceTree = "<group>"; };
+		919A2628351BF218E0EC58F06E123987 /* AwesomeSpotlightView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AwesomeSpotlightView-Info.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E2D78D9A7AA618F989DFB6FBA8B5F34 /* Pods-AwesomeSpotlightViewDemoObjC-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AwesomeSpotlightViewDemoObjC-acknowledgements.markdown"; sourceTree = "<group>"; };
-		B1056A80344113E08E5E541A32250961 /* AwesomeSpotlightView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AwesomeSpotlightView-prefix.pch"; sourceTree = "<group>"; };
+		B2ED32109E1245A25B71718282868B84 /* Pods_AwesomeSpotlightViewDemoObjC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AwesomeSpotlightViewDemoObjC.framework; path = "Pods-AwesomeSpotlightViewDemoObjC.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B48635A1F6638BEF44BEA8EBB7EF23F4 /* AwesomeSpotlightView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AwesomeSpotlightView-dummy.m"; sourceTree = "<group>"; };
 		B55DD9A4E0D4211E9C3578BC396AE7D1 /* Pods-AwesomeSpotlightViewDemoObjC-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AwesomeSpotlightViewDemoObjC-frameworks.sh"; sourceTree = "<group>"; };
+		BB5ED5EACD2C108B1B2A915CBFA876F8 /* AwesomeTabButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AwesomeTabButton.swift; path = AwesomeSpotlightView/Classes/AwesomeTabButton.swift; sourceTree = "<group>"; };
+		BC0E8982C43524139869207CCEEFAEFB /* AwesomeSpotlightView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AwesomeSpotlightView.debug.xcconfig; sourceTree = "<group>"; };
+		D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		DF17C59844D498BD143D2B1337C51C45 /* Pods-AwesomeSpotlightViewDemoObjC-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AwesomeSpotlightViewDemoObjC-umbrella.h"; sourceTree = "<group>"; };
-		DFACACEF524C4956B597E3F225273897 /* AwesomeSpotlightViewBundle.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = AwesomeSpotlightViewBundle.bundle; path = AwesomeSpotlightView/Classes/AwesomeSpotlightViewBundle.bundle; sourceTree = "<group>"; };
 		E51686376F28ACCD9676D40A6B28A057 /* Pods-AwesomeSpotlightViewDemoObjC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AwesomeSpotlightViewDemoObjC-dummy.m"; sourceTree = "<group>"; };
-		ECF2A2B0720AE923C22BED3192888BE0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		EF84B86272CD80F37476EC71819C3048 /* AwesomeTabButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AwesomeTabButton.swift; path = AwesomeSpotlightView/Classes/AwesomeTabButton.swift; sourceTree = "<group>"; };
-		FFCB91E0D72F10980B9866DF52DDFE43 /* AwesomeSpotlightView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AwesomeSpotlightView-Info.plist"; sourceTree = "<group>"; };
+		EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		579A3669E9587362E21E46239DC720BE /* Frameworks */ = {
+		1AA05223CAA635E59F15C7A3E7C37453 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41C2C23D02F5BC4E2F9E8358D69B48A2 /* Foundation.framework in Frameworks */,
-				B3BE8DAB2186DBEF3D28382FD18C29B0 /* UIKit.framework in Frameworks */,
+				48A9E61FED8024B721963FF5B18E1609 /* Foundation.framework in Frameworks */,
+				EF963785D8A9375970B0FF7D8CEC5B48 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C8500CA61F1A0846F0AB4162FC640C52 /* Frameworks */ = {
+		4C8D976A38B6F31565F73A60155EC337 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C4958433CA9413F484F1BF0D9EA4D8EA /* Foundation.framework in Frameworks */,
+				3E29FD72C03F089647985DD486513F12 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,9 +84,23 @@
 		1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E169A450ED27AC725DF52953F66D11E0 /* iOS */,
+				59DA5C1F72E1D5BABC43EACBA672C3BA /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3D6920D4393AFC8A85DB5DD77F7E5F31 /* AwesomeSpotlightView */ = {
+			isa = PBXGroup;
+			children = (
+				49D647D525E5C52B51A4D3943EC7F238 /* AwesomeSpotlight.swift */,
+				7525F7E292C507068D1536275924BD4C /* AwesomeSpotlightView.swift */,
+				BB5ED5EACD2C108B1B2A915CBFA876F8 /* AwesomeTabButton.swift */,
+				546C48D860C98D0698BBA51849E9DDFC /* Localizator.swift */,
+				9D7A2BF6DBBD27DE95A26FBBBF87B791 /* Resources */,
+				F36DF816DB8340195F659AF5D3AAE2A7 /* Support Files */,
+			);
+			name = AwesomeSpotlightView;
+			path = AwesomeSpotlightView;
 			sourceTree = "<group>";
 		};
 		500835089CF4264478EE04D41AE5C08F /* Pods-AwesomeSpotlightViewDemoObjC */ = {
@@ -108,18 +123,35 @@
 		53B0A71A77F825986EB8036903AEDB8B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				836F15855C45068D535AA3D03619D0E3 /* AwesomeSpotlightView.framework */,
-				1E80B687977EF20B6E1B6046C7A863C2 /* Pods_AwesomeSpotlightViewDemoObjC.framework */,
+				2FDA64326F46727ABC932B518465BD86 /* AwesomeSpotlightView.framework */,
+				B2ED32109E1245A25B71718282868B84 /* Pods_AwesomeSpotlightViewDemoObjC.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		59DA5C1F72E1D5BABC43EACBA672C3BA /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */,
+				D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		70CC18D3ED5AAD157B97552B13CE309A /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C7200A7F9D2B16E115EC46D172A70795 /* AwesomeSpotlightView */,
+				3D6920D4393AFC8A85DB5DD77F7E5F31 /* AwesomeSpotlightView */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		9D7A2BF6DBBD27DE95A26FBBBF87B791 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				545ACF6719C88FD06F85735B0A21ED08 /* AwesomeSpotlightViewBundle.bundle */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		AF57F69D4F50E167FE0BDD465627CE9F /* Targets Support Files */ = {
@@ -128,34 +160,6 @@
 				500835089CF4264478EE04D41AE5C08F /* Pods-AwesomeSpotlightViewDemoObjC */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		C1587C66BDE89FD1B6B5B4F7B03C631C /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				516949894615FBDFB7BAA09EB416478A /* AwesomeSpotlightView.modulemap */,
-				4D906D829CA494984535809DAB43BADE /* AwesomeSpotlightView.xcconfig */,
-				05532F17513A2F4BE63A47151CCCCF8D /* AwesomeSpotlightView-dummy.m */,
-				FFCB91E0D72F10980B9866DF52DDFE43 /* AwesomeSpotlightView-Info.plist */,
-				B1056A80344113E08E5E541A32250961 /* AwesomeSpotlightView-prefix.pch */,
-				6A07A823162D056BCCCEBA0CF544A791 /* AwesomeSpotlightView-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/AwesomeSpotlightView";
-			sourceTree = "<group>";
-		};
-		C7200A7F9D2B16E115EC46D172A70795 /* AwesomeSpotlightView */ = {
-			isa = PBXGroup;
-			children = (
-				32173174FF3F0689229601365D383D0A /* AwesomeSpotlight.swift */,
-				050A239F72F13B758C96128B0C547049 /* AwesomeSpotlightView.swift */,
-				EF84B86272CD80F37476EC71819C3048 /* AwesomeTabButton.swift */,
-				71E2DA42E2228E242C373A386DBAFB46 /* Localizator.swift */,
-				EEDBFCE57DFEBB9D02F3F5E8D464D9ED /* Resources */,
-				C1587C66BDE89FD1B6B5B4F7B03C631C /* Support Files */,
-			);
-			name = AwesomeSpotlightView;
-			path = AwesomeSpotlightView;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -169,39 +173,37 @@
 			);
 			sourceTree = "<group>";
 		};
-		E169A450ED27AC725DF52953F66D11E0 /* iOS */ = {
+		F36DF816DB8340195F659AF5D3AAE2A7 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				40CB39E715FBCDAA142E6513E126200A /* Foundation.framework */,
-				ECF2A2B0720AE923C22BED3192888BE0 /* UIKit.framework */,
+				7DCAC578A0A4321DA997F748454EFE05 /* AwesomeSpotlightView.modulemap */,
+				B48635A1F6638BEF44BEA8EBB7EF23F4 /* AwesomeSpotlightView-dummy.m */,
+				919A2628351BF218E0EC58F06E123987 /* AwesomeSpotlightView-Info.plist */,
+				28B371A2DF877A16C6A14B2808E00C46 /* AwesomeSpotlightView-prefix.pch */,
+				3F64D8AAE786C08512190321035FFB97 /* AwesomeSpotlightView-umbrella.h */,
+				BC0E8982C43524139869207CCEEFAEFB /* AwesomeSpotlightView.debug.xcconfig */,
+				17F18E636C2F901CB750522A40E472A9 /* AwesomeSpotlightView.release.xcconfig */,
 			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		EEDBFCE57DFEBB9D02F3F5E8D464D9ED /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				DFACACEF524C4956B597E3F225273897 /* AwesomeSpotlightViewBundle.bundle */,
-			);
-			name = Resources;
+			name = "Support Files";
+			path = "../Target Support Files/AwesomeSpotlightView";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		ABF9E78B192F9377D572B5B9784A6853 /* Headers */ = {
+		BECF51933C9AEA57D2D911853817D308 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				39D183E3DBACA29E1DA16B4DB1888462 /* Pods-AwesomeSpotlightViewDemoObjC-umbrella.h in Headers */,
+				CD9CEB768E622AA2B732023A4AC72831 /* AwesomeSpotlightView-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B803B58868A67417A0EE05435C7595C8 /* Headers */ = {
+		EB357852AEA72D72BF0D5DA3B2BCF824 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				651658FF8444E368796BD52A74609062 /* AwesomeSpotlightView-umbrella.h in Headers */,
+				6DC60265BD07FC2325BF5EEA0579B5CA /* Pods-AwesomeSpotlightViewDemoObjC-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,12 +212,12 @@
 /* Begin PBXNativeTarget section */
 		14FC0C9E4E078AC230B149162CB0E219 /* AwesomeSpotlightView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F8E5ABB2DA10D923FCFE194284E129DA /* Build configuration list for PBXNativeTarget "AwesomeSpotlightView" */;
+			buildConfigurationList = 331F1F211DAFD1B08655F78F56AB239C /* Build configuration list for PBXNativeTarget "AwesomeSpotlightView" */;
 			buildPhases = (
-				B803B58868A67417A0EE05435C7595C8 /* Headers */,
-				DC088C82E61E66C1A28C6FC6DB3296C7 /* Sources */,
-				579A3669E9587362E21E46239DC720BE /* Frameworks */,
-				A0576E39AC9AA89C1D36772C6DED6256 /* Resources */,
+				BECF51933C9AEA57D2D911853817D308 /* Headers */,
+				4CA86097C05A328E0AD6B777D803201E /* Sources */,
+				1AA05223CAA635E59F15C7A3E7C37453 /* Frameworks */,
+				E9372F52E4BC0A86288383E9228654C5 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -223,26 +225,26 @@
 			);
 			name = AwesomeSpotlightView;
 			productName = AwesomeSpotlightView;
-			productReference = 836F15855C45068D535AA3D03619D0E3 /* AwesomeSpotlightView.framework */;
+			productReference = 2FDA64326F46727ABC932B518465BD86 /* AwesomeSpotlightView.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		8622C13C4054122A5D93AB6601FB1CD2 /* Pods-AwesomeSpotlightViewDemoObjC */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2F858C8B0F3B215A729657F94CEC2346 /* Build configuration list for PBXNativeTarget "Pods-AwesomeSpotlightViewDemoObjC" */;
+			buildConfigurationList = 4CDFB56E05224537CB18782F53C74255 /* Build configuration list for PBXNativeTarget "Pods-AwesomeSpotlightViewDemoObjC" */;
 			buildPhases = (
-				ABF9E78B192F9377D572B5B9784A6853 /* Headers */,
-				9783D05E7DE5F6E4DA68171698DEBDEE /* Sources */,
-				C8500CA61F1A0846F0AB4162FC640C52 /* Frameworks */,
-				8946C1F6EF364B5EDCFD0D8E2CD70EA3 /* Resources */,
+				EB357852AEA72D72BF0D5DA3B2BCF824 /* Headers */,
+				54ACF7554510C92F659DAA5ABC66C9D7 /* Sources */,
+				4C8D976A38B6F31565F73A60155EC337 /* Frameworks */,
+				77088229905D96639EF5B068A8D5C418 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				03D4C10A0385F112F65B0E5CA9F10D9F /* PBXTargetDependency */,
+				62B6C55ACCB136F683861ED8DE1FB241 /* PBXTargetDependency */,
 			);
 			name = "Pods-AwesomeSpotlightViewDemoObjC";
 			productName = "Pods-AwesomeSpotlightViewDemoObjC";
-			productReference = 1E80B687977EF20B6E1B6046C7A863C2 /* Pods_AwesomeSpotlightViewDemoObjC.framework */;
+			productReference = B2ED32109E1245A25B71718282868B84 /* Pods_AwesomeSpotlightViewDemoObjC.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -251,15 +253,16 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
-			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			compatibilityVersion = "Xcode 10.0";
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
 			productRefGroup = 53B0A71A77F825986EB8036903AEDB8B /* Products */;
@@ -273,60 +276,99 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8946C1F6EF364B5EDCFD0D8E2CD70EA3 /* Resources */ = {
+		77088229905D96639EF5B068A8D5C418 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A0576E39AC9AA89C1D36772C6DED6256 /* Resources */ = {
+		E9372F52E4BC0A86288383E9228654C5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				391FD413A5F2D90A8CE06D6A1A4E5D14 /* AwesomeSpotlightViewBundle.bundle in Resources */,
+				5261C66F4AD4C30BC02FDAE410E2CD25 /* AwesomeSpotlightViewBundle.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		9783D05E7DE5F6E4DA68171698DEBDEE /* Sources */ = {
+		4CA86097C05A328E0AD6B777D803201E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9EA464E51BB96CC08B89398C45B186AB /* Pods-AwesomeSpotlightViewDemoObjC-dummy.m in Sources */,
+				D332761FF504DD9FA4C80D25577A6BC1 /* AwesomeSpotlight.swift in Sources */,
+				357D5FE227F1B7EA08C8D414123C0C23 /* AwesomeSpotlightView-dummy.m in Sources */,
+				4F716BEA16685B97F3E148E8E9199B61 /* AwesomeSpotlightView.swift in Sources */,
+				201B15060B87EA23F9B516A58F5952D6 /* AwesomeTabButton.swift in Sources */,
+				867FA5F56A07ECB3172E0550136BD8F0 /* Localizator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		DC088C82E61E66C1A28C6FC6DB3296C7 /* Sources */ = {
+		54ACF7554510C92F659DAA5ABC66C9D7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F94FFFD5C521AF2E0153657D8EA8BEF /* AwesomeSpotlight.swift in Sources */,
-				403A5434130EAFFAA2539A2100B57496 /* AwesomeSpotlightView-dummy.m in Sources */,
-				0D3CC051145F48A605E41A9E9467A8EA /* AwesomeSpotlightView.swift in Sources */,
-				BCACF559971A10803615B48EA9D1B44E /* AwesomeTabButton.swift in Sources */,
-				A0FBF6CC1A427568CC1E83C52356C6C5 /* Localizator.swift in Sources */,
+				7C57C46BED1D42892752D93E786C5F37 /* Pods-AwesomeSpotlightViewDemoObjC-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		03D4C10A0385F112F65B0E5CA9F10D9F /* PBXTargetDependency */ = {
+		62B6C55ACCB136F683861ED8DE1FB241 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = AwesomeSpotlightView;
 			target = 14FC0C9E4E078AC230B149162CB0E219 /* AwesomeSpotlightView */;
-			targetProxy = 93E5AD4B3BCEF5C188214C394D7AE962 /* PBXContainerItemProxy */;
+			targetProxy = 35EE5E0B6A89486096D144D47DF92D00 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		3048B0C5C704DFFF688DA57F5380ED58 /* Release */ = {
+		1B948BEA92D216C577C4BE7E4DCA1254 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 711318556B88FF6E468885198BD712A0 /* Pods-AwesomeSpotlightViewDemoObjC.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AwesomeSpotlightViewDemoObjC/Pods-AwesomeSpotlightViewDemoObjC-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AwesomeSpotlightViewDemoObjC/Pods-AwesomeSpotlightViewDemoObjC.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		7EE7A78859F657F6BEFC651185B43192 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -349,6 +391,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -378,16 +421,15 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		4AD3E88B01635EF6B9C5CD71705A34EE /* Debug */ = {
+		8AF49DB7555B389E29D8949644DBC542 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4D906D829CA494984535809DAB43BADE /* AwesomeSpotlightView.xcconfig */;
+			baseConfigurationReference = 17F18E636C2F901CB750522A40E472A9 /* AwesomeSpotlightView.release.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -413,15 +455,17 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
-		5B0C8287D755FD95091CF35D87FB8B2D /* Debug */ = {
+		D299434AB35E7FD6F7921C8EF24742FF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -444,6 +488,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -477,16 +522,52 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		ADAFA2F3396DEA28461D1595517AAAC9 /* Release */ = {
+		DC0F0F3296AB7B703B26428869C31B8A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4D906D829CA494984535809DAB43BADE /* AwesomeSpotlightView.xcconfig */;
+			baseConfigurationReference = 7919B21CB361FB75A797085722A89339 /* Pods-AwesomeSpotlightViewDemoObjC.debug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AwesomeSpotlightViewDemoObjC/Pods-AwesomeSpotlightViewDemoObjC-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AwesomeSpotlightViewDemoObjC/Pods-AwesomeSpotlightViewDemoObjC.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F5A5CB39148CFDDB9A506FE0AF26945C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC0E8982C43524139869207CCEEFAEFB /* AwesomeSpotlightView.debug.xcconfig */;
+			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -512,97 +593,19 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		D50048B8BBCB693067256E8E597466AE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7919B21CB361FB75A797085722A89339 /* Pods-AwesomeSpotlightViewDemoObjC.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AwesomeSpotlightViewDemoObjC/Pods-AwesomeSpotlightViewDemoObjC-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AwesomeSpotlightViewDemoObjC/Pods-AwesomeSpotlightViewDemoObjC.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		E6120B2A11EA597B2EBEE8C047C6B7E1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 711318556B88FF6E468885198BD712A0 /* Pods-AwesomeSpotlightViewDemoObjC.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AwesomeSpotlightViewDemoObjC/Pods-AwesomeSpotlightViewDemoObjC-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AwesomeSpotlightViewDemoObjC/Pods-AwesomeSpotlightViewDemoObjC.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2F858C8B0F3B215A729657F94CEC2346 /* Build configuration list for PBXNativeTarget "Pods-AwesomeSpotlightViewDemoObjC" */ = {
+		331F1F211DAFD1B08655F78F56AB239C /* Build configuration list for PBXNativeTarget "AwesomeSpotlightView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D50048B8BBCB693067256E8E597466AE /* Debug */,
-				E6120B2A11EA597B2EBEE8C047C6B7E1 /* Release */,
+				F5A5CB39148CFDDB9A506FE0AF26945C /* Debug */,
+				8AF49DB7555B389E29D8949644DBC542 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -610,17 +613,17 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5B0C8287D755FD95091CF35D87FB8B2D /* Debug */,
-				3048B0C5C704DFFF688DA57F5380ED58 /* Release */,
+				D299434AB35E7FD6F7921C8EF24742FF /* Debug */,
+				7EE7A78859F657F6BEFC651185B43192 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8E5ABB2DA10D923FCFE194284E129DA /* Build configuration list for PBXNativeTarget "AwesomeSpotlightView" */ = {
+		4CDFB56E05224537CB18782F53C74255 /* Build configuration list for PBXNativeTarget "Pods-AwesomeSpotlightViewDemoObjC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4AD3E88B01635EF6B9C5CD71705A34EE /* Debug */,
-				ADAFA2F3396DEA28461D1595517AAAC9 /* Release */,
+				DC0F0F3296AB7B703B26428869C31B8A /* Debug */,
+				1B948BEA92D216C577C4BE7E4DCA1254 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
