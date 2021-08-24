@@ -3,5 +3,5 @@ platform :ios, '10.0'
 use_frameworks!
 
 target 'AwesomeSpotlightViewDemoObjC' do
-  pod 'AwesomeSpotlightView'
+  pod 'AwesomeSpotlightView', :git => 'https://github.com/findaplayer/AwesomeSpotlightView', :branch=>'master'
 end
